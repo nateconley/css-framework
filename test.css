@@ -1,5 +1,5 @@
 .columns {
 	background: grey;
-	height: 20px;
 	border: 2px solid blue;
+	text-align: center;
 }
